@@ -66,7 +66,10 @@ CREATE TABLE "Title" (
      )
 );
 
--- Defining tables foreign keys
+-- Defining foreign keys
+
+ALTER TABLE "Department_Employee" ADD CONSTRAINT "fk_Department_Employee_empl_no" FOREIGN KEY("empl_no")
+REFERENCES "Employees" ("empl_no");
 
 ALTER TABLE "Department_Employee" ADD CONSTRAINT "fk_Department_Employee_dept_no" FOREIGN KEY("dept_no")
 REFERENCES "Departments" ("dept_no");
@@ -77,14 +80,8 @@ REFERENCES "Departments" ("dept_no");
 ALTER TABLE "Manager" ADD CONSTRAINT "fk_Manager_empl_no" FOREIGN KEY("empl_no")
 REFERENCES "Employees" ("empl_no");
 
-ALTER TABLE "Employees" ADD CONSTRAINT "fk_Employees_empl_no" FOREIGN KEY("empl_no")
-REFERENCES "Department_Employee" ("empl_no");
-
 ALTER TABLE "Employees" ADD CONSTRAINT "fk_Employees_empl_title_id" FOREIGN KEY("empl_title_id")
 REFERENCES "Title" ("title_id");
 
 ALTER TABLE "Salaries" ADD CONSTRAINT "fk_Salaries_empl_no" FOREIGN KEY("empl_no")
 REFERENCES "Employees" ("empl_no");
-
-
-SELECT * FROM "Departments";
