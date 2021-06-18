@@ -19,3 +19,9 @@ JOIN "Employees" ON "Manager"."empl_no" = "Employees"."empl_no";
 
 -- List the department of each employee with the following information: employee number, last name, first name, and department name.
 
+SELECT "Employees"."empl_no", "Employees"."last_name", "Employees"."first_name", "Department_Employee"."dept_no", "Departments"."dept_name"
+FROM "Employees"
+JOIN "Department_Employee" ON "Employees"."empl_no" = "Department_Employee"."empl_no"
+JOIN "Departments" ON "Departments"."dept_no" = "Department_Employee"."dept_no";
+
+--
