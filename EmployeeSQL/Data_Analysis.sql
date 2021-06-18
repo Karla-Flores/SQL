@@ -24,4 +24,8 @@ FROM "Employees"
 JOIN "Department_Employee" ON "Employees"."empl_no" = "Department_Employee"."empl_no"
 JOIN "Departments" ON "Departments"."dept_no" = "Department_Employee"."dept_no";
 
---
+-- List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
+SELECT *
+FROM "Employees"
+WHERE first_name = 'Hercules' AND last_name LIKE 'B%';
