@@ -1,4 +1,4 @@
--- EmployeesSQL
+-- Employees SQL
 
 -- Dropping tables if they exist
 DROP TABLE IF EXISTS "Departments";
