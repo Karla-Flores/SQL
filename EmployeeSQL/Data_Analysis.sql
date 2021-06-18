@@ -54,7 +54,3 @@ SELECT "Employees"."last_name", COUNT("Employees"."last_name") AS "Frequency"
 FROM "Employees"
 GROUP BY "Employees"."last_name"
 ORDER BY COUNT("Employees"."last_name") DESC;
-
-
-
-SELECT * FROM "Departments";
