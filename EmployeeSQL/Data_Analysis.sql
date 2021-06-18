@@ -48,4 +48,13 @@ JOIN "Departments" ON "Department_Employee"."dept_no" = "Departments"."dept_no"
 WHERE "Departments"."dept_name" = 'Sales' or "Departments"."dept_name" = 'Development'
 ORDER BY "Employees"."empl_no";
 
+-- In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+SELECT "Employees"."last_name", COUNT("Employees"."last_name") AS "Frequency"
+FROM "Employees"
+GROUP BY "Employees"."last_name"
+ORDER BY COUNT("Employees"."last_name") DESC;
+
+
+
 SELECT * FROM "Departments";
