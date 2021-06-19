@@ -130,3 +130,5 @@ dmypy.json
 .DS_Store
 .DS_Store
 .DS_Store
+EmployeeSQL/config.py
+EmployeeSQL/Untitled.ipynb
