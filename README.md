@@ -1,2 +1,5 @@
-# SQL--Challenge
-SQL--Challenge
+<h1>SQL--Challenge</h1>
+<hr -->
+
+<p align:'Justify'>This task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.</p>
+<br>
