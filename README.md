@@ -9,7 +9,7 @@
 
 <p align:'Justify'>Each CSV file was imported into the corresponding SQL table in the same order that the tables were created to avoid errors.</p>
 
-<img width="982" alt="Screen Shot 2021-06-20 at 1 13 33 PM" src="https://user-images.githubusercontent.com/77529968/122684138-520ac000-d1c9-11eb-860f-33475471f527.png">
+<img align="center" width="982" alt="Screen Shot 2021-06-20 at 1 13 33 PM" src="https://user-images.githubusercontent.com/77529968/122684138-520ac000-d1c9-11eb-860f-33475471f527.png" >
 <br>
 <h3>Data Analysis</h3>
 <hr -->
@@ -17,13 +17,33 @@
 
 <ol>
   <li>List the following details of each employee: employee number, last name, first name, sex, and salary.</li>
+  <p align="center">
+<img width="645" alt="Screen Shot 2021-06-20 at 8 07 42 PM" src="https://user-images.githubusercontent.com/77529968/122694514-2dcbd500-d203-11eb-9d21-a04c2283c59f.png">
+ </p><br>
   <li>List first name, last name, and hire date for employees who were hired in 1986.</li>
+  <p align="center">
+  <img align="center" width="419" alt="Screen Shot 2021-06-20 at 8 09 50 PM" src="https://user-images.githubusercontent.com/77529968/122694588-7a171500-d203-11eb-9c84-1f1898158845.png">
+  </p><br>
   <li>List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.</li>
+  <p align="center">
+    <img width="677" alt="Screen Shot 2021-06-20 at 8 32 03 PM" src="https://user-images.githubusercontent.com/77529968/122695634-94062700-d206-11eb-9ec6-a4099ef67013.png">
+  </p><br>
   <li>List the department of each employee with the following information: employee number, last name, first name, and department name.</li>
+  <p align="center">
+  </p><br>
   <li>List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."</li>
+  <p align="center">
+  </p><br>
   <li>List all employees in the Sales department, including their employee number, last name, first name, and department name.</li>
+  <p align="center">
+  </p><br>
   <li>List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.</li>
+  <p align="center">
+  </p><br>
   <li>In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</li>
+  <p align="center">
+  </p><br>
+
 </ol>
 <h3>Data Visualization</h3>
 <hr -->
