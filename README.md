@@ -56,6 +56,17 @@
 The SQL database was imported into Pandas. The following visualizations were then generated:</p>
 <ul>
   <li>A histogram to visualize the most common salary ranges for employees.</li>
+  <p align="center">
+  <img width="1003" alt="Screen Shot 2021-06-20 at 8 48 08 PM" src="https://user-images.githubusercontent.com/77529968/122696506-d466a480-d208-11eb-81d0-cdf8a7318f68.png">
+    </p><br>
   <li>A bar chart of average salary by title.</li>
+  <p align="center">
+    <img width="995" alt="Screen Shot 2021-06-20 at 8 48 29 PM" src="https://user-images.githubusercontent.com/77529968/122696535-e34d5700-d208-11eb-9628-a75756dcb2d0.png">
+    </p><br>
 </ul>
-
+<h3>Epilogue</h3>
+<hr -->
+<p align="Justify"> While looking for the employee # 499942, the first and last name appear as "April Foolsday".</p>
+<p align="center">
+<img width="297" alt="Screen Shot 2021-06-20 at 8 51 58 PM" src="https://user-images.githubusercontent.com/77529968/122696720-5ce54500-d209-11eb-84b0-cadf4f9d0605.png">
+</p><br>
