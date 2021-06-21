@@ -25,4 +25,12 @@
   <li>List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.</li>
   <li>In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</li>
 </ol>
+<h3>Data Visualization</h3>
+<hr -->
+<p>
+The SQL database was imported into Pandas. The following visualizations were then generated:</p>
+<ul>
+  <li>A histogram to visualize the most common salary ranges for employees.</li>
+  <li>A bar chart of average salary by title.</li>
+</ul>
 
