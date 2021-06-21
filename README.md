@@ -46,6 +46,7 @@
   </p><br>
   <li>In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</li>
   <p align="center">
+    <img width="286" alt="Screen Shot 2021-06-20 at 8 45 47 PM" src="https://user-images.githubusercontent.com/77529968/122696357-7f2a9300-d208-11eb-96c7-396828da80c4.png">
   </p><br>
 
 </ol>
