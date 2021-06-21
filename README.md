@@ -34,13 +34,15 @@
   </p><br>
   <li>List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."</li>
   <p align="center">
-    
+    <img width="454" alt="Screen Shot 2021-06-20 at 8 40 38 PM" src="https://user-images.githubusercontent.com/77529968/122696067-c7958100-d207-11eb-8aa4-05f631b5145e.png">
   </p><br>
   <li>List all employees in the Sales department, including their employee number, last name, first name, and department name.</li>
   <p align="center">
+     <img width="556" alt="Screen Shot 2021-06-20 at 8 43 09 PM" src="https://user-images.githubusercontent.com/77529968/122696181-20fdb000-d208-11eb-9774-1c678a82099f.png">
   </p><br>
   <li>List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.</li>
   <p align="center">
+    <img width="562" alt="Screen Shot 2021-06-20 at 8 44 09 PM" src="https://user-images.githubusercontent.com/77529968/122696235-45598c80-d208-11eb-8302-35d120eefa8d.png">
   </p><br>
   <li>In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</li>
   <p align="center">
