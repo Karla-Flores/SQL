@@ -30,9 +30,11 @@
   </p><br>
   <li>List the department of each employee with the following information: employee number, last name, first name, and department name.</li>
   <p align="center">
+    <img width="694" alt="Screen Shot 2021-06-20 at 8 38 42 PM" src="https://user-images.githubusercontent.com/77529968/122695966-82714f00-d207-11eb-8269-c47f527731a7.png">
   </p><br>
   <li>List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."</li>
   <p align="center">
+    
   </p><br>
   <li>List all employees in the Sales department, including their employee number, last name, first name, and department name.</li>
   <p align="center">
