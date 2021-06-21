@@ -10,4 +10,19 @@
 <p align:'Justify'>Each CSV file was imported into the corresponding SQL table in the same order that the tables were created to avoid errors.</p>
 
 <img width="982" alt="Screen Shot 2021-06-20 at 1 13 33 PM" src="https://user-images.githubusercontent.com/77529968/122684138-520ac000-d1c9-11eb-860f-33475471f527.png">
+<br>
+<h3>Data Analysis</h3>
+<hr -->
+<p>Once the database was complete the data was analyzed. Queries were created to:</p>
+
+<ol>
+  <li>List the following details of each employee: employee number, last name, first name, sex, and salary.</li>
+  <li>List first name, last name, and hire date for employees who were hired in 1986.</li>
+  <li>List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.</li>
+  <li>List the department of each employee with the following information: employee number, last name, first name, and department name.</li>
+  <li>List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."</li>
+  <li>List all employees in the Sales department, including their employee number, last name, first name, and department name.</li>
+  <li>List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.</li>
+  <li>In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</li>
+</ol>
 
